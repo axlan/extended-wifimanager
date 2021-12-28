@@ -1,0 +1,3 @@
+[submodule "lib/WiFiManager"]
+	path = lib/WiFiManager
+	url = git@github.com:axlan/WiFiManager
